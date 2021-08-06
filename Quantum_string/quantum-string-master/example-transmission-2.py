@@ -17,7 +17,7 @@ mypath = "C:\\Users\\...\\quantum-string-master\\quantum-string-master\\output" 
 duration = 2.0 # [s]
 space_steps = 2047
 length = 1.94 # [m]
-density = 0.013 # [kg/m]
+density = 0.003 # [kg/m]
 
 c = 295 #Bien recopier la célérité expérimentale
 dx = length/space_steps
